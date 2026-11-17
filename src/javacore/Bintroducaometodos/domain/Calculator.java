@@ -10,4 +10,8 @@ public class Calculator {
         System.out.println(21 - 2);
     }
 
+    public void multiplyTwoNumbers(int num, int num2){
+        System.out.println(num * num2);
+
+    }
 }
