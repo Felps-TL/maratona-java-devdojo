@@ -1,0 +1,6 @@
+Create a car class with the following attributes:
+--Name;
+--Model;
+--Year;
+
+After that, create two  distinct objects and print their values.
