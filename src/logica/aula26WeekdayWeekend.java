@@ -1,4 +1,4 @@
-/*
+package logica;/*
  * Given values from 1 to 7, print whether it is a weekday or a weekend.
  */
 

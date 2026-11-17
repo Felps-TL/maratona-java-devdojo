@@ -1,3 +1,5 @@
+package logica;
+
 public class aula32Arrays01 {
     public static void main(String[] args) {
         //byte, short, int, long, float and double 0

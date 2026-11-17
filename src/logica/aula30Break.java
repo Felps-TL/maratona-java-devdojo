@@ -1,4 +1,4 @@
-/*
+package logica;/*
  * Given the price of a car, find out how many installments it can be divided into.
  * Condition installmentAmount >= 1000
  */

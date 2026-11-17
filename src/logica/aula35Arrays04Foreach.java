@@ -1,3 +1,5 @@
+package logica;
+
 public class aula35Arrays04Foreach {
     public static void main(String[] args) {
         int [] numbers = new int[3];

@@ -1,4 +1,4 @@
-/*
+package logica;/*
 * Crie variáveis para os campos descritos abaixo entre <> e imprima a seguinte mensagem:
 *
 * Eu <nome>, morando no endereço <endereço>, confirmo que recebi o salário de <salário>, na data <data>

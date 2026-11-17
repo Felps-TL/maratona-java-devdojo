@@ -1,3 +1,5 @@
+package logica;
+
 public class aula36ArraysMult01 {
     public static void main(String[] args) {
         // 1,2,3,4,5 Month
