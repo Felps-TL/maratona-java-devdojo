@@ -1,8 +1,8 @@
 # Maratona Java — DevDojo
 
-Meus estudos da Maratona Java do DevDojo, com os códigos que escrevo em cada aula.
+My studies from the DevDojo Java Marathon, including the code I write in each lesson.
 
-## Progresso
-- [x] Lógica de programação
-- [ ] Orientação a objetos (aulas 39–94)
-- [ ] Exceções (aulas 95–105)
+## Progress
+- [x] Programming logic in Java
+- [ ] Object-oriented programming (Classes 39–94)
+- [ ] Exceptions (Classes 95–105)
