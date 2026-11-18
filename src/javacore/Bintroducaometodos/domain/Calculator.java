@@ -38,4 +38,20 @@ public class Calculator {
         System.out.println("Num1 " + num1);
         System.out.println("Num2 " + num2);
     }
+
+    public void addArray(int[] numbers) {
+        int add = 0;
+        for(int num: numbers) {
+            add = add + num;
+        }
+        System.out.println(add);
+    }
+
+    public void addVarArgs(int... numbers) {
+        int add = 0;
+        for(int num: numbers) {
+            add = add + num;
+        }
+        System.out.println(add);
+    }
 }
