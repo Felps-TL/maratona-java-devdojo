@@ -1,6 +1,6 @@
 package javacore.Csobrecargametodos.test;
 
-import javacore.Csobrecargametodos.dominio.Anime;
+import javacore.Csobrecargametodos.domain.Anime;
 
 public class AnimeTest {
     public static void main(String[] args) {

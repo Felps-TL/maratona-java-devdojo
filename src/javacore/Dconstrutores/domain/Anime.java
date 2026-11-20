@@ -1,10 +1,14 @@
-package javacore.Csobrecargametodos.dominio;
+package javacore.Dconstrutores.domain;
 
 public class Anime {
     private String nome;
     private String tipo;
     private int episodios;
     private String genero;
+
+    public Anime(){
+
+    }
 
     public void init(String nome, String tipo, int episodios) {
         this.nome = nome;
