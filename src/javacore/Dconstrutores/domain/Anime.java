@@ -32,7 +32,7 @@ public class Anime {
         System.out.println(this.estudio);
     }
 
-    public void setTipo(String tipo) {
+    /*public void setTipo(String tipo) {
         this.tipo = tipo;
     }
 
@@ -62,5 +62,5 @@ public class Anime {
 
     public void setGenero(String genero) {
         this.genero = genero;
-    }
+    }*/
 }
